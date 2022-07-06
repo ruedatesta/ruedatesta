@@ -11,4 +11,3 @@ I am currently working on two projects:
 2. Labor Markets, imperfect competition, and bargaining.
 
 The best way to reach me is through email: rhruedar@cougarnet.uh.edu
-hola
