@@ -6,6 +6,6 @@ My research is mainly focused on answering economic questions with structural mo
 
 I am currently working on two projects:
 1. Trade models with variable markups.
-2. Labor Markets, imperfect competition, and bargaining.
+2. Labor market, imperfect competition, and bargaining.
 
 The best way to reach me is through email: rhruedar@cougarnet.uh.edu
