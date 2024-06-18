@@ -1,8 +1,8 @@
 Hello!
 
-My name is Horacio Rueda. I am an Econ Ph.D. student at the University of Houston.
+My name is Horacio Rueda. I am a 4th year Ph.D. candidate in Economics at the University of Houston. 
 
-The primary focus of my research is understanding the causes and consequences of imperfect competition on economic aggregates and their distribution. To accomplish this, I combine tools from industrial organization embedded in heterogeneous agents and firm dynamic models.
+I am interested in market power, labor and international trade. The primary focus of my research is understanding the causes and consequences of imperfect competition on economic aggregates and their distribution.
 
 
 The best way to reach me is through email: rhruedar@cougarnet.uh.edu
